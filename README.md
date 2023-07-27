@@ -27,13 +27,11 @@
 
 
 
--:telescope: I have worked as a Summer Intern in Reliance Industries Limited in Summer 2022.
+-:telescope: I am currently , working as an security intern at JIO Platforms pvt. Ltd. 
 
 -:seedling: Exploring Cloud Computing and Cyber Security.
 
--:zap: In my free time, I Explore AWS ( Amazon Web services)Services and Implement Some of them and also try out Some Anti-Forensic Tools.
-
--:mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Mit Pandya-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mit-pandya-15930621a/)
+-:zap: In my free time, I Explore AWS ( Amazon Web services)Services and Implement Some of them and also try out Some Security tools.
 
 ---
 
